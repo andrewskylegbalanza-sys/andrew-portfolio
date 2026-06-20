@@ -1,6 +1,6 @@
 # Andrew Skyle G. Balanza Portfolio
 
-Academic and work portfolio website for Andrew Skyle G. Balanza, a Bachelor of Science in Computer Engineering student.
+Academic and work portfolio website for me, a Bachelor of Science in Computer Engineering student.
 
 ## Portfolio Sections
 
